@@ -1,0 +1,37 @@
+/*CSS Recognizes classes with a dot "." before the name*/
+
+.firstDiv{
+    color:blue;
+}
+
+.secondDiv{
+    color:red;
+}
+
+/*ids use hashtag "#" before the name*/
+
+#singledout{
+    color: green;
+    text-decoration: line-through;
+}
+
+/*One uncommon thing to use is the asterisk "*", it overrides elements*/
+
+/*
+*{
+    color: black;
+}
+*/
+
+h3 + ul{/*It says "Select all unordered lists that are placed immediately after one h3"*/
+    border: 4px dotted purple; /*instead of calling boarder-color, boarder-style and border-width*/
+}
+
+li a{/*All anchor tags inside of a list*/
+    color: red;
+}
+
+li a[href="www.npr.org"]{/*any anchor tag with a particular href*/
+    color:blue;
+    border: 5px solid orange;
+}
