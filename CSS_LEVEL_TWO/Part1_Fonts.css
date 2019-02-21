@@ -1,0 +1,26 @@
+h1{
+    font-family:"Arial";
+    text-align: center;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+}
+
+/* body{
+    font-size: 20px;
+} */
+
+/*em is  the ratio in relation to the basis element, in this case, body*/
+body{
+    font-size: 20px;
+}
+
+#two{
+    font-size: 1.2em;
+}
+
+p{
+    font-style: italic;
+    font-weight: bold;
+}
