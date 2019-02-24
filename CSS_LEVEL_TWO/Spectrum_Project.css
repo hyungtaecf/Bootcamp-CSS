@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin: auto;
+}
+p{
+    text-align: center;
+    padding: 4px;
+    margin: auto;
+    height: 5%;
+}
+span{
+    padding: 4.5em;
+    padding-bottom: 10em;
+    margin: auto;
+    border: 4px solid white;
+}
+#color1{
+    background-color: #EF476F;
+}
+#color2{
+    background-color: #FFD166;
+}
+#color3{
+    background-color: #06D6A0;
+}
+#color4{
+    background-color: #118AB2;
+}
+#color5{
+    background-color: #073B4C;
+}
