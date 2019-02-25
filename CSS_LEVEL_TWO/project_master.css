@@ -1,0 +1,39 @@
+body{
+    background-color: #001021;
+    text-align: center;
+    border-right: 4em solid #53ACB4;
+    border-left: 4em solid #53ACB4;
+    border-bottom: 4em solid #53ACB4;
+}
+.text{
+    color: white;
+    font-family: 'Chivo', sans-serif;
+}
+h1{
+    font-size: 4em;
+}
+h2{
+    font-size: 3em;
+}
+p{
+    font-size: 2em;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+input{
+    font-size: 1.2em;
+}
+form{
+    padding: 1em;
+}
+#lorem{
+    padding-top: 1em;
+}
+#submit{
+    border-radius: 25%;
+    height: 4em;
+    width: 7em;
+    font-size: 2em;
+    font-weight: bold;
+    background-color: orange;
+}
