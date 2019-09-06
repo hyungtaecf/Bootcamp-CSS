@@ -4,10 +4,8 @@ body{
     border-right: 4em solid #53ACB4;
     border-left: 4em solid #53ACB4;
     border-bottom: 4em solid #53ACB4;
-}
-.text{
-    color: white;
     font-family: 'Chivo', sans-serif;
+    color: white;
 }
 h1{
     font-size: 4em;
@@ -25,6 +23,7 @@ input{
 }
 form{
     padding: 1em;
+    font-size: 1.2em;
 }
 #lorem{
     padding-top: 1em;
@@ -35,5 +34,5 @@ form{
     width: 7em;
     font-size: 2em;
     font-weight: bold;
-    background-color: orange;
+    background-color: gold;
 }
